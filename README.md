@@ -54,7 +54,7 @@ cd <repo-folder>
 ### Windows (PowerShell)
 ```powershell
 python -m venv .venv
-.venv\Scripts\Activate.ps1
+.venv\Scripts\activate.bat
 ```
 
 ### macOS / Linux
