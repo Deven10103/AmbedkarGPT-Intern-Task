@@ -43,8 +43,8 @@ Follow these steps to install and run the project locally.
 ## **1️⃣ Pull the repository**
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/Deven10103/AmbedkarGPT-Intern-Task.git
+cd AmbedkarGPT-Intern-Task
 ```
 
 ---
